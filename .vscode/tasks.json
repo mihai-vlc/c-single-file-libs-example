@@ -10,7 +10,7 @@
         "-g",
         "${workspaceFolder}/main.c",
         "-o",
-        "${workspaceFolder}/main.exe"
+        "${workspaceFolder}/build/main.exe"
       ],
       "presentation": {
         "clear": true
